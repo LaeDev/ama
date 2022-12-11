@@ -14,6 +14,8 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
+
+
 - 질문에 대한 답변이 아직 없는지 확인해주세요!
 - 간결한 제목과 설명을 사용해주세요!
 - 버그 및 기능 요청은 관련 Issue Tracker에서 열어주세요!
